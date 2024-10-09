@@ -1,0 +1,69 @@
+/* Import Google Font */
+@import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Guides:wght@400..700&family=Londrina+Sketch&display=swap');
+/* Style Body */
+body{
+    background: #353535;
+    margin: 0;
+    padding: 0;
+    font-family: "Londrina Sketch", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+/* Style Class Loader */
+.loader{
+    height: 40px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+}
+/* Style span in Class Loader */
+.loader span{
+    color: #d9d9d9;
+    font-size: 5rem;
+    color: rgba(255, 255, 255, .1);
+    display: inline-block;
+    transition: all .5s;
+    animation: animate 2s infinite;
+}
+/* Style keyframes animate */
+@keyframes animate{
+    0%{
+        color: rgba(255, 255, 255, .1);
+        transform: translateY(0);
+        margin-left: 0;
+    }
+    25%{
+        color: #d9d9d9;
+        transfrom: traslateY(15px);
+        margin-left: 10px;
+        text-shadow: 0 15px 5px rgba(0, 0, 0, 1);
+    }
+    100%{
+        color: rgba(255, 255, 255, .1);
+        transform: translateY(0);
+        margin-left: 0;
+    }
+}
+/* Style Loader nth-child */
+.loader span:nth-child(1){
+    animation-delay: .1s;
+}
+.loader span:nth-child(2){
+    animation-delay: .2s;
+}
+.loader span:nth-child(3){
+    animation-delay: .3s;
+}
+.loader span:nth-child(4){
+    animation-delay: .4s;
+}
+.loader span:nth-child(5){
+    animation-delay: .5s;
+}
+.loader span:nth-child(6){
+    animation-delay: .6s;
+}
+.loader span:nth-child(7){
+    animation-delay: .7s;
+}
