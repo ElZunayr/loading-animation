@@ -19,7 +19,7 @@
 ---
 ## 💡 About the project
 My First Website
-- [Demo](#)
+- [Demo](https://elzunayr.github.io/loading-animation/)
 
 ## 🚀 Getting started
 
@@ -46,7 +46,7 @@ git clone https://github.com/ElZunayr/loading-animation.git
 Once your pull request has been merged, you can delete your branch.
 
 ## 🧰 Video Youtube
-[![IMAGE ALT TEXT HERE](https://i9.ytimg.com/vi/B2qvjgZ09i8/mqdefault.jpg?v=67000234&sqp=CPismbgG&rs=AOn4CLCSkKybTxRDhD98FQhdSlkBGLnE7g)](https://youtu.be/B2qvjgZ09i8)
+[![IMAGE ALT TEXT HERE](https://i9.ytimg.com/vi/dq_pTTxRCCo/mqdefault.jpg?v=67068b21&sqp=COCYmrgG&rs=AOn4CLA8jA78eSJTJP3NuTacYFrWjhVikQ)](https://youtu.be/dq_pTTxRCCo)
 
 ## 📝 License
 
