@@ -58,7 +58,7 @@ Made with by EL Zunayr Development
 
 ---
 
-Support El Zunayr :wave: [Get in touch](buymeacoffee.com/elzunayr)
+Support El Zunayr :wave: [Get in touch](https://sociabuzz.com/elzunayr)
 
 ## 🔗 References
 - https://youtu.be/tla17buc3tw?si=6xy7V2KexwrnzciL
