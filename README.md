@@ -46,7 +46,7 @@ git clone https://github.com/ElZunayr/loading-animation.git
 Once your pull request has been merged, you can delete your branch.
 
 ## 🧰 Video Youtube
-[![IMAGE ALT TEXT HERE](https://i9.ytimg.com/vi/dq_pTTxRCCo/mqdefault.jpg?v=67068b21&sqp=COCYmrgG&rs=AOn4CLA8jA78eSJTJP3NuTacYFrWjhVikQ)](https://youtu.be/dq_pTTxRCCo)
+[![IMAGE ALT TEXT HERE](https://i9.ytimg.com/vi/dq_pTTxRCCo/mqdefault.jpg?v=671a2010&sqp=CJiYhrkG&rs=AOn4CLBKraMBwPwXqMTi3V7g0LL51Eklww)](https://youtu.be/dq_pTTxRCCo)
 
 ## 📝 License
 
